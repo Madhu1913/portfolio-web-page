@@ -1,0 +1,42 @@
+.para{
+    color:black
+}
+.head{
+    color: red
+}
+.para{
+    font-size: 120%;
+}
+.head{
+    font-size: 250%;
+}
+.para{
+    text-align: center;
+}
+.head{
+    text-align: center;
+}
+.hood{
+    color: blue;
+}
+.hood{
+text-align: center;
+}
+.head2{
+    color: red;
+}
+.head2{
+    font-size: 250%;
+}
+.para2{
+    color: black;
+}
+.para2{
+    font-size: 120%;
+}
+.head2{
+    text-align:center;
+}
+.para2{
+    text-align:center;
+}
